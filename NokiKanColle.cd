@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NokiKanColle.Data.DataJudge" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAgAAAEQAgEAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Data\DataJudge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Data.DataClick" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAABAAAAAAACAQgAAAAAAAAABAgAAEAAAA=</HashCode>
+      <FileName>Data\DataClick.cs</FileName>
+      <NewMemberFileName>Data\Data.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Data.DataWrapper">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAQAAAAACAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Data\DataWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.ThreadsWrapper" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQAAAAEAAAAAAAAQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Wrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.GameProcessWrapper" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAIACAAhA=</HashCode>
+      <FileName>Utility\Wrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.TimerWrapper" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAEAAAAAAQAAAAAAAAAAAAAAAAAAgAABA=</HashCode>
+      <FileName>Utility\Wrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Window.CatchData_Form" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAADAAQBARQADAAQAKABAAAAAAgAAgAAAQACA=</HashCode>
+      <FileName>Window\CatchData_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Window.Main_Form" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>MEAEAAhAAKEAAEgIiACBZQgqABEaEAYIAGAARgAQI0U=</HashCode>
+      <FileName>Window\MainForm\Main_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionSafe" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Function\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.Process.CExpedition" Collapsed="true">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Process\Expedition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.Process.C远征计时器_" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAEAAAAQQAAAAgAAAAAAAAACAAAA=</HashCode>
+      <FileName>Utility\Process\Expedition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.Function" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAQAAAAAAAAIBAAAAAABAAAAAAA=</HashCode>
+      <FileName>Function\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.GlobalObject" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAACAAACAAA=</HashCode>
+      <FileName>Function\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionBitmap" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAABAAAAAGJAAACAAACAAAAQCAAAgAgAABA=</HashCode>
+      <FileName>Function\FunctionBitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionClick" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAQCAAAAAAAAAAAAAAAAAAAACAAgg=</HashCode>
+      <FileName>Function\FunctionClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionHandle" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAIAAAAAAIAQAAAAAAQIAAAAAAAAAAAAQABAA=</HashCode>
+      <FileName>Function\FunctionHandle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionJudge" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAACIAQA=</HashCode>
+      <FileName>Function\FunctionJudge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionQueue" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Function\FunctionQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Function.FunctionThread" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAIAAQAAA=</HashCode>
+      <FileName>Function\FunctionThread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.CHandle" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\GameHandle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NokiKanColle.Utility.CGameHandle" Collapsed="true">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAIAKBAAAAAAgAAAACAgAAAAACAAAAAAAAEAAg=</HashCode>
+      <FileName>Utility\GameHandle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NokiKanColle.Utility.CMessageQueue" Collapsed="true">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Utility\MessageQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
